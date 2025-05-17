@@ -25,6 +25,10 @@
 
 - Para criar arq automatico .txt contendo todas as lib: pip freeze > requirements.txt (para add no heroku);
 
+- Melhor utilizar o: pipreqs (pip install)
+
+- depois, entre no diretorio do projeto pelo terminal e digite: pipreqs . --force
+
 ---------------------------------------------------------------------------------------
 
 # Para criar seu repositório no heroku:
