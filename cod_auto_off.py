@@ -27,7 +27,25 @@
 
 ---------------------------------------------------------------------------------------
 
+# Para criar seu repositório no heroku:
 
+1. heroko login
+
+2. entra na pasta que esta o seu projeto pelo terminal: cd /home/seu/projeto
+
+3. no terminal dentro da pasta digite: git init 
+
+4. em seguida dgite: heroku git:remote -a nomeapp.Ex.py
+
+# Etapas para atualizar seu projeto:
+
+1. heroko login
+
+2. adicionar todos os arquivos no git: git add .
+
+3. git commit -am "Atualizando..."
+
+4. git push heroku master
 
 """
 
