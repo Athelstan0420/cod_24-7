@@ -19,7 +19,7 @@
 
 - Fazer login no heroku pelo terminal: heroku login; 
 
-- Criar arq externo na pasta do projeto: Procfile; 
+- Criar arq externo na pasta do projeto: Procfile (worker: /usr/bin/python /home/adriel/Documentos/24por7/cod_auto_off.py); 
 
 - Verifica todas as lib instaladas do meu projeto: pip freeze;
 
